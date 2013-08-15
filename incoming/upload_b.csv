@@ -1,77 +1,0 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
-
-\f0\fs24 \cf0 Medtronic Diabetes CareLink Personal Data Export File (v1.0.1) ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-PATIENT INFO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Name,Hayden Desborough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Report Range,7/30/2012,to,10/21/2012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-DEVICE INFO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Pump:,Paradigm Revel - 723,#592958,Time Changes: 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Meter:,Paradigm System,#844182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Sensor:,In use, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Data Exported on,12/29/2012 7:10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-DEVICE DATA (34128 records),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Data Range,7/30/2012 0:00,to,10/21/2012 23:59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Index,Date,Time,Timestamp,New Device Time,BG Reading (mg/dL),Linked BG Meter ID,Temp Basal Amount (U/h),Temp Basal Type,Temp Basal Duration (hh:mm:ss),Bolus Type,Bolus Volume Selected (U),Bolus Volume Delivered (U),Programmed Bolus Duration (hh:mm:ss),Prime Type,Prime Volume Delivered (U),Suspend,Rewind,BWZ Estimate (U),BWZ Target High BG (mg/dL),BWZ Target Low BG (mg/dL),BWZ Carb Ratio (grams),BWZ Insulin Sensitivity (mg/dL),BWZ Carb Input (grams),BWZ BG Input (mg/dL),BWZ Correction Estimate (U),BWZ Food Estimate (U),BWZ Active Insulin (U),Alarm,Sensor Calibration BG (mg/dL),Sensor Glucose (mg/dL),ISIG Value,Daily Insulin Total (U),Raw-Type,Raw-Values,Raw-ID,Raw-Upload ID,Raw-Seq Num,Raw-Device Type\
-18,9/1/2009,19:48:00,9/1/2009 19:48,,218,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=218, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523198,2828008,21,FreeStyle\
-19,9/1/2009,20:54:00,9/1/2009 20:54,,153,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=153, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523197,2828008,20,FreeStyle\
-20,9/2/2009,1:45:00,9/2/2009 1:45,,117,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=117, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523196,2828008,19,FreeStyle\
-21,9/2/2009,6:46:00,9/2/2009 6:46,,88,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=88, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523195,2828008,18,FreeStyle\
-22,9/2/2009,16:30:00,9/2/2009 16:30,,84,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=84, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523194,2828008,17,FreeStyle\
-23,9/2/2009,19:15:00,9/2/2009 19:15,,332,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=332, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523193,2828008,16,FreeStyle\
-24,9/2/2009,20:38:00,9/2/2009 20:38,,391,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=391, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523192,2828008,15,FreeStyle\
-25,9/3/2009,2:21:00,9/3/2009 2:21,,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=80, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523191,2828008,14,FreeStyle\
-26,9/3/2009,2:21:00,9/3/2009 2:21,,89,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=89, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523190,2828008,13,FreeStyle\
-27,9/3/2009,5:57:00,9/3/2009 5:57,,110,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=110, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523189,2828008,12,FreeStyle\
-28,9/3/2009,11:14:00,9/3/2009 11:14,,238,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=238, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523188,2828008,11,FreeStyle\
-29,9/3/2009,17:46:00,9/3/2009 17:46,,315,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=315, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523187,2828008,10,FreeStyle\
-30,9/3/2009,20:26:00,9/3/2009 20:26,,222,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=222, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523186,2828008,9,FreeStyle\
-31,9/4/2009,2:14:00,9/4/2009 2:14,,266,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=266, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523185,2828008,8,FreeStyle\
-32,9/4/2009,5:13:00,9/4/2009 5:13,,132,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=132, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523184,2828008,7,FreeStyle\
-33,9/4/2009,6:34:00,9/4/2009 6:34,,108,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=108, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523183,2828008,6,FreeStyle\
-34,9/4/2009,7:52:00,9/4/2009 7:52,,184,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=184, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523182,2828008,5,FreeStyle\
-35,9/4/2009,7:53:00,9/4/2009 7:53,,286,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=286, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523181,2828008,4,FreeStyle\
-36,9/4/2009,9:05:00,9/4/2009 9:05,,208,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=208, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523180,2828008,3,FreeStyle\
-37,9/4/2009,14:02:00,9/4/2009 14:02,,242,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=242, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523179,2828008,2,FreeStyle\
-38,9/4/2009,19:19:00,9/4/2009 19:19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SensorTimestamp,TIMESTAMP_TYPE=gap,2356310981,2827884,1516,Paradigm 722\
-39,9/4/2009,19:19:00,9/4/2009 19:19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SensorTimestamp,TIMESTAMP_TYPE=gap,2356310984,2827884,1519,Paradigm 722\
-40,9/4/2009,19:19:00,9/4/2009 19:19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SensorTimestamp,TIMESTAMP_TYPE=gap,2356310986,2827884,1521,Paradigm 722\
-41,9/5/2009,0:00:00,9/5/2009 0:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24.5,ResultDailyTotal,"AMOUNT=24.5, CONCENTRATION=null",2356309918,2827884,453,Paradigm 722\
-42,9/5/2009,15:07:00,9/5/2009 15:07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SensorTimestamp,TIMESTAMP_TYPE=gap,2356310989,2827884,1524,Paradigm 722\
-43,9/5/2009,15:07:00,9/5/2009 15:07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SensorTimestamp,TIMESTAMP_TYPE=gap,2356310992,2827884,1527,Paradigm 722\
-44,9/5/2009,15:07:00,9/5/2009 15:07,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,SensorTimestamp,TIMESTAMP_TYPE=gap,2356310994,2827884,1529,Paradigm 722\
-45,9/5/2009,15:15:32,9/5/2009 15:15,,,,,,,,,,,,,,,,,,,,,,,,,Reprogram Error (61),,,,,AlarmPump,"RAW_TYPE=61, RAW_MODULE=26, LINE_NUM=1550",2356309972,2827884,507,Paradigm 722\
-46,9/5/2009,15:16:24,9/5/2009 15:16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ClearAlarm,"ALARM_TYPE=61, ACTION_REQUESTOR=pump",2356309971,2827884,506,Paradigm 722\
-47,9/5/2009,15:17:00,9/5/2009 15:17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,AlarmClockReminder,REASON=alarm clock expired,2356309970,2827884,505,Paradigm 722\
-48,9/5/2009,15:20:28,9/5/2009 15:20,,,,,,,Normal,0.3,0.3,,,,,,,,,,,,,,,,,,,,,BolusNormal,"AMOUNT=0.3, CONCENTRATION=null, PROGRAMMED_AMOUNT=0.3, ACTION_REQUESTOR=pump, ENABLE=false, IS_DUAL_COMPONENT=false, UNABSORBED_INSULIN_TOTAL=null",2356309969,2827884,504,Paradigm 722\
-49,9/5/2009,15:21:30,9/5/2009 15:21,,,,,,,Normal,0.2,0.2,,,,,,,,,,,,,,,,,,,,,BolusNormal,"AMOUNT=0.2, CONCENTRATION=null, PROGRAMMED_AMOUNT=0.2, ACTION_REQUESTOR=pump, ENABLE=false, IS_DUAL_COMPONENT=false, UNABSORBED_INSULIN_TOTAL=null",2356309968,2827884,503,Paradigm 722\
-50,9/5/2009,15:22:50,9/5/2009 15:22,,,,,,,Normal,0.5,0.5,,,,,,,,,,,,,,,,,,,,,BolusNormal,"AMOUNT=0.5, CONCENTRATION=null, PROGRAMMED_AMOUNT=0.5, ACTION_REQUESTOR=pump, ENABLE=false, IS_DUAL_COMPONENT=false, UNABSORBED_INSULIN_TOTAL=null",2356309967,2827884,502,Paradigm 722\
-51,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBGTargetRangePattern,"ORIGINAL_UNITS=unset, SIZE=0",2356309958,2827884,494,Paradigm 722\
-52,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBGTargetRangePattern,"ORIGINAL_UNITS=unset, SIZE=0",2356309963,2827884,499,Paradigm 722\
-53,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBolusWizardEnable,"ENABLE=true, ACTION_REQUESTOR=pump",2356309966,2827884,501,Paradigm 722\
-54,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBolusWizardSetupConfig,"IS_SETUP_COMPLETE=false, IS_BOLUS_WIZARD_ENABLED=false, CARB_UNITS=unset, BG_UNITS=unset, CARB_RATIO_PATTERN_DATUM=2356309956, INSULIN_SENSITIVITY_PATTERN_DATUM=2356309957, BG_TARGET_RANGE_PATTERN_DATUM=2356309958, INSULIN_ACTION_CURVE=0",2356309959,2827884,491,Paradigm 722\
-55,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBolusWizardSetupConfig,"IS_SETUP_COMPLETE=false, IS_BOLUS_WIZARD_ENABLED=true, CARB_UNITS=grams, BG_UNITS=unset, CARB_RATIO_PATTERN_DATUM=2356309960, INSULIN_SENSITIVITY_PATTERN_DATUM=2356309962, BG_TARGET_RANGE_PATTERN_DATUM=2356309963, INSULIN_ACTION_CURVE=0",2356309964,2827884,495,Paradigm 722\
-56,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBolusWizardSetup,"NEW_CONFIG_DATUM=2356309964, OLD_CONFIG_DATUM=2356309959, ACTION_REQUESTOR=pump",2356309965,2827884,500,Paradigm 722\
-57,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeCarbRatio,"PATTERN_DATUM=2356309960, INDEX=0, AMOUNT=15, UNITS=grams, START_TIME=0",2356309961,2827884,497,Paradigm 722\
-58,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeCarbRatioPattern,SIZE=0,2356309956,2827884,492,Paradigm 722\
-59,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeCarbRatioPattern,SIZE=1,2356309960,2827884,496,Paradigm 722\
-60,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeInsulinSensitivityPattern,"ORIGINAL_UNITS=unset, SIZE=0",2356309957,2827884,493,Paradigm 722\
-61,9/5/2009,15:25:24,9/5/2009 15:25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeInsulinSensitivityPattern,"ORIGINAL_UNITS=unset, SIZE=0",2356309962,2827884,498,Paradigm 722\
-62,9/5/2009,15:27:38,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,119,,,,CalBGForPH,"AMOUNT=119, ACTION_REQUESTOR=pump",2356309942,2827884,477,Paradigm 722\
-63,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBGTargetRange,"PATTERN_DATUM=2356309952, INDEX=0, AMOUNT_LOW=80, AMOUNT_HIGH=150, START_TIME=0",2356309953,2827884,489,Paradigm 722\
-64,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBGTargetRangePattern,"ORIGINAL_UNITS=mg dl, SIZE=1",2356309952,2827884,488,Paradigm 722\
-65,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBGTargetRangePattern,"ORIGINAL_UNITS=unset, SIZE=0",2356309946,2827884,482,Paradigm 722\
-66,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBolusWizardSetupConfig,"IS_SETUP_COMPLETE=false, IS_BOLUS_WIZARD_ENABLED=true, CARB_UNITS=grams, BG_UNITS=unset, CARB_RATIO_PATTERN_DATUM=2356309943, INSULIN_SENSITIVITY_PATTERN_DATUM=2356309945, BG_TARGET_RANGE_PATTERN_DATUM=2356309946, INSULIN_ACTION_CURVE=0",2356309947,2827884,478,Paradigm 722\
-67,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBolusWizardSetupConfig,"IS_SETUP_COMPLETE=true, IS_BOLUS_WIZARD_ENABLED=true, CARB_UNITS=grams, BG_UNITS=mg dl, CARB_RATIO_PATTERN_DATUM=2356309948, INSULIN_SENSITIVITY_PATTERN_DATUM=2356309950, BG_TARGET_RANGE_PATTERN_DATUM=2356309952, INSULIN_ACTION_CURVE=180",2356309954,2827884,483,Paradigm 722\
-68,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeBolusWizardSetup,"NEW_CONFIG_DATUM=2356309954, OLD_CONFIG_DATUM=2356309947, ACTION_REQUESTOR=pump",2356309955,2827884,490,Paradigm 722\
-69,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeCarbRatio,"PATTERN_DATUM=2356309943, INDEX=0, AMOUNT=15, UNITS=grams, START_TIME=0",2356309944,2827884,480,Paradigm 722\
-70,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeCarbRatio,"PATTERN_DATUM=2356309948, INDEX=0, AMOUNT=15, UNITS=grams, START_TIME=0",2356309949,2827884,485,Paradigm 722\
-71,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeCarbRatioPattern,SIZE=1,2356309943,2827884,479,Paradigm 722\
-72,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeCarbRatioPattern,SIZE=1,2356309948,2827884,484,Paradigm 722\
-73,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeInsulinSensitivity,"PATTERN_DATUM=2356309950, INDEX=0, AMOUNT=50, START_TIME=0",2356309951,2827884,487,Paradigm 722\
-74,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeInsulinSensitivityPattern,"ORIGINAL_UNITS=mg dl, SIZE=1",2356309950,2827884,486,Paradigm 722\
-75,9/5/2009,15:27:07,9/5/2009 15:27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ChangeInsulinSensitivityPattern,"ORIGINAL_UNITS=unset, SIZE=0",2356309945,2827884,481,Paradigm 722\
-76,9/5/2009,15:28:29,9/5/2009 15:28,,,,,,,,,,,,,,,2.4,150,80,15,50,37,119,0,2.4,2,,,,,,BolusWizardBolusEstimate,"BG_INPUT=119, BG_UNITS=mg dl, CARB_INPUT=37, CARB_UNITS=grams, CARB_RATIO=15, INSULIN_SENSITIVITY=50, BG_TARGET_LOW=80, BG_TARGET_HIGH=150, BOLUS_ESTIMATE=2.4, CORRECTION_ESTIMATE=0, FOOD_ESTIMATE=2.4, UNABSORBED_INSULIN_TOTAL=2, UNABSORBED_INSULIN_COUNT=2, ACTION_REQUESTOR=pump",2356309939,2827884,474,Paradigm 722}

@@ -1,52 +1,0 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
-
-\f0\fs24 \cf0 Medtronic Diabetes CareLink Personal Data Export File (v1.0.1) ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-PATIENT INFO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Name,Hayden Desborough,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Report Range,7/30/2012,to,10/21/2012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-DEVICE INFO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Pump:,Paradigm Revel - 723,#592958,Time Changes: 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Meter:,Paradigm System,#844182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Sensor:,In use, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Data Exported on,12/29/2012 7:10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-DEVICE DATA (34128 records),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Data Range,7/30/2012 0:00,to,10/21/2012 23:59,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
-Index,Date,Time,Timestamp,New Device Time,BG Reading (mg/dL),Linked BG Meter ID,Temp Basal Amount (U/h),Temp Basal Type,Temp Basal Duration (hh:mm:ss),Bolus Type,Bolus Volume Selected (U),Bolus Volume Delivered (U),Programmed Bolus Duration (hh:mm:ss),Prime Type,Prime Volume Delivered (U),Suspend,Rewind,BWZ Estimate (U),BWZ Target High BG (mg/dL),BWZ Target Low BG (mg/dL),BWZ Carb Ratio (grams),BWZ Insulin Sensitivity (mg/dL),BWZ Carb Input (grams),BWZ BG Input (mg/dL),BWZ Correction Estimate (U),BWZ Food Estimate (U),BWZ Active Insulin (U),Alarm,Sensor Calibration BG (mg/dL),Sensor Glucose (mg/dL),ISIG Value,Daily Insulin Total (U),Raw-Type,Raw-Values,Raw-ID,Raw-Upload ID,Raw-Seq Num,Raw-Device Type\
-1,8/29/2009,9:27:00,8/29/2009 9:27,,43,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=43, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523215,2828008,37,FreeStyle\
-2,8/29/2009,11:41:00,8/29/2009 11:41,,204,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=204, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523214,2828008,36,FreeStyle\
-3,8/30/2009,16:51:00,8/30/2009 16:51,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,CheckTherasenseControlSolution,"TEMPERATURE_STATUS=false, CAL_CODE=0, AMOUNT=106",2356523213,2828008,0,FreeStyle\
-4,8/30/2009,17:02:00,8/30/2009 17:02,,259,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=259, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523212,2828008,35,FreeStyle\
-5,8/31/2009,9:15:00,8/31/2009 9:15,,442,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=442, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523211,2828008,34,FreeStyle\
-6,8/31/2009,13:59:00,8/31/2009 13:59,,501,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasenseHigh,"AMOUNT=501, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523210,2828008,33,FreeStyle\
-7,8/31/2009,14:01:00,8/31/2009 14:01,,395,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=395, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523209,2828008,32,FreeStyle\
-8,8/31/2009,17:33:00,8/31/2009 17:33,,212,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=212, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523208,2828008,31,FreeStyle\
-9,8/31/2009,20:05:00,8/31/2009 20:05,,277,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=277, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523207,2828008,30,FreeStyle\
-10,9/1/2009,2:10:00,9/1/2009 2:10,,101,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=101, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523206,2828008,29,FreeStyle\
-11,9/1/2009,6:02:00,9/1/2009 6:02,,242,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=242, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523205,2828008,28,FreeStyle\
-12,9/1/2009,6:06:00,9/1/2009 6:06,,214,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=214, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523204,2828008,27,FreeStyle\
-13,9/1/2009,6:41:00,9/1/2009 6:41,,250,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=250, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523203,2828008,26,FreeStyle\
-14,9/1/2009,14:56:00,9/1/2009 14:56,,268,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=268, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523202,2828008,25,FreeStyle\
-15,9/1/2009,16:32:00,9/1/2009 16:32,,189,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=189, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523201,2828008,24,FreeStyle\
-16,9/1/2009,16:38:00,9/1/2009 16:38,,93,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=93, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523200,2828008,23,FreeStyle\
-17,9/1/2009,17:36:00,9/1/2009 17:36,,114,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=114, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523199,2828008,22,FreeStyle\
-18,9/1/2009,19:48:00,9/1/2009 19:48,,218,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=218, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523198,2828008,21,FreeStyle\
-19,9/1/2009,20:54:00,9/1/2009 20:54,,153,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=153, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523197,2828008,20,FreeStyle\
-20,9/2/2009,1:45:00,9/2/2009 1:45,,117,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=117, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523196,2828008,19,FreeStyle\
-21,9/2/2009,6:46:00,9/2/2009 6:46,,88,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=88, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523195,2828008,18,FreeStyle\
-22,9/2/2009,16:30:00,9/2/2009 16:30,,84,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=84, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523194,2828008,17,FreeStyle\
-23,9/2/2009,19:15:00,9/2/2009 19:15,,332,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=332, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523193,2828008,16,FreeStyle\
-24,9/2/2009,20:38:00,9/2/2009 20:38,,391,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=391, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523192,2828008,15,FreeStyle\
-25,9/3/2009,2:21:00,9/3/2009 2:21,,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=80, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523191,2828008,14,FreeStyle\
-26,9/3/2009,2:21:00,9/3/2009 2:21,,89,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=89, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523190,2828008,13,FreeStyle\
-27,9/3/2009,5:57:00,9/3/2009 5:57,,110,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=110, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523189,2828008,12,FreeStyle\
-28,9/3/2009,11:14:00,9/3/2009 11:14,,238,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=238, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523188,2828008,11,FreeStyle\
-29,9/3/2009,17:46:00,9/3/2009 17:46,,315,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=315, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523187,2828008,10,FreeStyle\
-30,9/3/2009,20:26:00,9/3/2009 20:26,,222,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=222, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523186,2828008,9,FreeStyle\
-31,9/4/2009,2:14:00,9/4/2009 2:14,,266,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=266, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523185,2828008,8,FreeStyle\
-32,9/4/2009,5:13:00,9/4/2009 5:13,,132,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=132, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523184,2828008,7,FreeStyle\
-33,9/4/2009,6:34:00,9/4/2009 6:34,,108,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=108, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523183,2828008,6,FreeStyle\
-34,9/4/2009,7:52:00,9/4/2009 7:52,,184,,,,,,,,,,,,,,,,,,,,,,,,,,,,BGTherasense,"AMOUNT=184, TEMPERATURE_STATUS=false, CAL_CODE=0",2356523182,2828008,5,FreeStyle}
